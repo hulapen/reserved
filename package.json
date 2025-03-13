@@ -1,4 +1,7 @@
 {
   "name": "reserved",
-  "packageManager": "yarn@4.7.0"
+  "packageManager": "yarn@4.7.0",
+  "dependencies": {
+    "nuxt": "3.0.0"
+  }
 }
